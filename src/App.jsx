@@ -1,9 +1,20 @@
 import './App.css'
 
-export default function App() {
+const app = ()  => {
+
   return (
-    <main>
-      React ⚛️ + Vite ⚡ + Replit 🌀
-    </main>
-  )
+    <div>
+      
+
+      <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+      </ul>
+    </div>
+
+
+    )
 }
+
+export default app;
